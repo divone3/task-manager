@@ -86,6 +86,7 @@ API Examples
 	    DELETE /api/tasks/<id>/
 
 Folder Structure
+
 	TaskManager/
 	├── TaskManager/      # Django project settings
 	├── tasks/            # Task app
